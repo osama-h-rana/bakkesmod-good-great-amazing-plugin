@@ -228,7 +228,7 @@ void GoodGreatAmazing::Render(CanvasWrapper canvas)
 	if (boost > 80)
 	{
 		canvas.SetColor(0, 255, 0, 255);
-		boostAmount = "Awesome";
+		boostAmount = "Amazing";
 	}
 	else if (boost < 24)
 	{
